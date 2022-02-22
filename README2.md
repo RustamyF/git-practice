@@ -79,7 +79,7 @@ git commit -m "added the word good"
 git push origin good
 ```
 
-### Merge branches via CLI
+### Merge the two branches via CLI
 ```
 git push origin new-branch
 git checkout main
